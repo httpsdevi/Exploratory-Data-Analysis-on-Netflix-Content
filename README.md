@@ -1,6 +1,6 @@
 # 📊 Netflix Content Insights & Analysis
 
-![Netflix Visual](./datasets/netfliximg.png)
+![Netflix Visual](netfliximg.png)
 
 ## 📘 Project Overview
 Dive into the world of Netflix's vast content catalog with a thorough data analysis using Python, Pandas, Matplotlib, and Seaborn. This project aims to uncover hidden trends and patterns within Netflix’s movie and TV show offerings.
@@ -46,14 +46,14 @@ The dataset includes detailed attributes about Netflix content such as:
 Here are some of the insights uncovered during the exploration:
 
 ### 🗓️ Best Months to Release Content
-![Release Months](./datasets/month.png)
+![Release Months](month.png)
 
 - July, December, and September are the top-performing months for content additions.
 
 ---
 
 ### 🌍 Leading Content Contributors
-![Country-wise Content](./datasets/country_wise.jpg)
+![Country-wise Content](country_wise.jpg)
 
 - The US, India, and the UK contribute the highest volume of content to Netflix.
 
